@@ -5,6 +5,12 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.5.0](https://github.com/sanity-io/groq-cli/compare/v0.4.1...v0.5.0) (2026-02-02)
+
+### Features
+
+- upgrade groq-js to latest ([#25](https://github.com/sanity-io/groq-cli/issues/25)) ([b08be2e](https://github.com/sanity-io/groq-cli/commit/b08be2e113f1cfe13109847dc9c0fb221020fe9f))
+
 ## [0.4.1](https://github.com/sanity-io/groq-cli/compare/v0.4.0...v0.4.1) (2024-12-02)
 
 ### Bug Fixes
